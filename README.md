@@ -17,7 +17,7 @@ Image Gallery App built with Core PHP, MySQLi Database & Tailwind Css.
 Clone the project
 
 ```bash
-   $ git clone git@github.com:abdullahijaz-dev/e-stuffcart.git
+   $ git clone git@github.com:abdullahijaz-dev/devGallery.git
 ```
 
 Must Download XAMPP Server & Import Database File.
